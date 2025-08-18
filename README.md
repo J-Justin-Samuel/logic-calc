@@ -36,6 +36,7 @@ LogicCalc/
 
 ## 📸 Demo
  ![scientific calculator image](https://github.com/J-Justin-Samuel/logic-calc/blob/bdc42a8ba3bd464e7c10b06199be4ff2fc34c1ad/scientific%20calculator.png)
+ ![base convetor image](https://github.com/J-Justin-Samuel/logic-calc/blob/87923be312f496c9a3de6b67f27ca73bccae06f3/base%20convertor.png)
 
 ---
 
