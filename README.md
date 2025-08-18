@@ -35,7 +35,7 @@ LogicCalc/
 ---
 
 ## 📸 Demo
- 
+ ![scientific calculator image](https://github.com/J-Justin-Samuel/logic-calc/blob/bdc42a8ba3bd464e7c10b06199be4ff2fc34c1ad/scientific%20calculator.png)
 
 ---
 
